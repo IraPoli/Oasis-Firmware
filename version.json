@@ -1,0 +1,18 @@
+{
+  "project": "Smart Oasis",
+  "stable": {
+    "version": "1.0.0",
+    "url": "https://github.com/IraPoli/Oasis-Firmware/releases/download/v1.0.0/firmware.bin",
+    "sha256": "",
+    "changelog": "Стабільний реліз: Live PWM Control, DLI ядро, Wi-Fi CLI, Dual-boot OTA з Rollback"
+  },
+  "beta": {
+    "version": "1.1.0-beta1",
+    "url": "https://github.com/IraPoli/Oasis-Firmware/releases/download/v1.1.0-beta1/firmware.bin",
+    "sha256": "",
+    "changelog": "Тестова версія"
+  },
+  "versions": {
+    "1.0.0": "https://github.com/IraPoli/Oasis-Firmware/releases/download/v1.0.0/firmware.bin"
+  }
+}
